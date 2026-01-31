@@ -1,0 +1,1 @@
+https://huggingface.co/manuuu22p/finetuned-sd-1.4-pontia-academic/tree/main
